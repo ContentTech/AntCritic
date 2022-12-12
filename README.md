@@ -57,10 +57,10 @@ or [here](https://drive.google.com/file/d/1WW_S5ZNCsRCjca4ud2NYfBrBrwAxt0cp/view
 
 
 ## Model architecture
-<center class="half">
+<p align="center">
 <img width="732" alt="architecture" src="https://user-images.githubusercontent.com/113573331/207002976-3c22a56b-ea77-4bff-8f79-1267c2593090.png">
-<br> Figure: Overall architecture diagram of segment-level model. Better viewed in color.
-</center>
+<br /> Figure: Overall architecture diagram of segment-level model.
+</p>
 
 
 ## Quick start
