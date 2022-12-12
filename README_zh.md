@@ -7,10 +7,10 @@ AntCritic提供的Baseline model是一个应用于论点论据挖掘的融合超
 
 ### 效果示例：
 
-<center class="half">
+<p align="center">
 <img width = "200" alt="效果示例" src="https://user-images.githubusercontent.com/113573331/206978762-8d77c5df-4b33-460a-8a96-af016e6d3eba.png"></img>
 <img width = "250" alt="效果示例" src = "https://user-images.githubusercontent.com/113573331/206979157-f0506103-6d19-45eb-a573-24415f7ac6ad.png"></img>
-</center>
+</p>
 
 ## 快速上手
 ### 环境配置
