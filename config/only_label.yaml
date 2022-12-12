@@ -1,0 +1,6 @@
+---
+optimizer:
+  loss:
+    label: 1
+    grid: 0
+    major: 0

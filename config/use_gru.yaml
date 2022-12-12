@@ -1,0 +1,4 @@
+---
+model:
+  module_cfg:
+    name: "GRU"
