@@ -7,10 +7,11 @@ AntCritic 是一个应用于论点论据挖掘的融合超文本标记信息的�
 
 ### 效果示例：
 
-<p align="center"><img src="https://user-images.githubusercontent.com/113573331/206978762-8d77c5df-4b33-460a-8a96-af016e6d3eba.png"></img>
+
+<p align="center"><img width = "300" height = "400" alt="效果示例" src="https://user-images.githubusercontent.com/113573331/206978762-8d77c5df-4b33-460a-8a96-af016e6d3eba.png"></img>
 </p>
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/113573331/206979157-f0506103-6d19-45eb-a573-24415f7ac6ad.png"></img>
+<img width = "300" height = "250" alt="效果示例" src = "https://user-images.githubusercontent.com/113573331/206979157-f0506103-6d19-45eb-a573-24415f7ac6ad.png"></img>
 </p>
 
 ## 快速上手
@@ -42,8 +43,9 @@ AntCritic 是一个应用于论点论据挖掘的融合超文本标记信息的�
 
 
   | Dataset                 | Domain    | Unit | Relation?| Modal | Lang|
- |---------------------------|-----------|---------|---------|---------|---------|
+  |---------------------------|-----------|---------|---------|---------|---------|
   | antcritic                | Financial Comments | Segment    | Yes | Text&HTML| Chinese|
+
 
 
   | Dataset                | #Docs       | #Sents     | #Claims     | #Tokens    | 
